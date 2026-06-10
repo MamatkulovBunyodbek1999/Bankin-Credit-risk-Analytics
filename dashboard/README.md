@@ -37,7 +37,7 @@ An interactive dashboard was developed using Microsoft Power BI to visualize cre
 ---
 
 ### 📸 Dashboard Preview
-![Dashboard Preview]("C:\Data Analytics Portfolio\Project 2\dashboard\Dashboard .png")
+![Dashboard Preview](https://github.com/MamatkulovBunyodbek1999/Bankin-Credit-risk-Analytics/blob/main/dashboard/Dashboard%20.png)
 
 ---
 
