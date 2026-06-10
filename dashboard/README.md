@@ -37,7 +37,7 @@ An interactive dashboard was developed using Microsoft Power BI to visualize cre
 ---
 
 ### 📸 Dashboard Preview
-![Dashboard Preview](dashboard/dashboard.png)
+![Dashboard Preview]("C:\Data Analytics Portfolio\Project 2\dashboard\Dashboard .png")
 
 ---
 
